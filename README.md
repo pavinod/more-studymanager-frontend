@@ -7,8 +7,8 @@ Mainly, Vue 3, vite, TS, tailwindCSS and PrimeVue are used.
 ## Things to do to start development
 ```
 npm i
-npm run dev
 npm run generate:api
+npm run dev
 ```
 go to http://localhost:3000
 
